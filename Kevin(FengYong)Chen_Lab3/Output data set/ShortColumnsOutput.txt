@@ -1,0 +1,17 @@
+n = 3
+matrix: 
+  2.0  3.0  4.0
+  4.0  5.0  7.0
+  4.0  5.0  6.0
+The determinant of the above matrix is 2.0
+
+n = 2
+matrix: 
+  1.0  2.0
+  1.0  4.0
+The determinant of the above matrix is 2.0
+
+n = 3
+  4.0  5.0  4.0
+  3.0  5.0
+The number of columns does not match with the order of the matrix n = 3. Program terminated.

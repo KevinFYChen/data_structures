@@ -1,0 +1,4 @@
+n = 3
+  1.0  2.0  3.0
+error line: 2 3
+the number of columns indicated above does not match with order n= 3, program terminated

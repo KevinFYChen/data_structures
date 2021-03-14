@@ -1,0 +1,166 @@
+n = 1
+matrix: 
+  5.0
+The determinant of the above matrix is 5.0
+
+n = 2
+matrix: 
+  2.0  3.0
+  5.0  9.0
+The determinant of the above matrix is 3.0
+
+n = 3
+matrix: 
+  3.0 -2.0  4.0
+ -1.0  5.0  2.0
+ -3.0  6.0  4.0
+The determinant of the above matrix is 64.0
+
+n = 4
+matrix: 
+  2.0  4.0  5.0  6.0
+  0.0  3.0  6.0  9.0
+  0.0  0.0  9.0  8.0
+  0.0  0.0  0.0  5.0
+The determinant of the above matrix is 270.0
+
+n = 4
+matrix: 
+  2.0  4.0  5.0  6.0
+  0.0  0.0  0.0  0.0
+  0.0  0.0  9.0  8.0
+  0.0  0.0  0.0  5.0
+The determinant of the above matrix is 0.0
+
+n = 4
+matrix: 
+  2.0  0.0  0.0  0.0
+  0.0  3.0  0.0  0.0
+  0.0  0.0  9.0  0.0
+  0.0  0.0  0.0  5.0
+The determinant of the above matrix is 270.0
+
+n = 4
+matrix: 
+  2.0  4.0  0.0  6.0
+  1.0  3.0  0.0  0.0
+  4.0  0.0  0.0  8.0
+  2.0  5.0  0.0  5.0
+The determinant of the above matrix is 0.0
+
+n = 6
+matrix: 
+  6.0  4.0  6.0  4.0  6.0  4.0
+  1.0  2.0  3.0  4.0  5.0  6.0
+  6.0  5.0  4.0  3.0  2.0  1.0
+  3.0  2.0  3.0  2.0  3.0  2.0
+  4.0  6.0  4.0  6.0  4.0  6.0
+  1.0  1.0  1.0  1.0  1.0  1.0
+The determinant of the above matrix is 0.0
+
+n = 5
+matrix: 
+  1.0  2.0  3.0  4.0  5.0
+  1.0  2.0  3.0  4.0  5.0
+  1.0  2.0  3.0  4.0  5.0
+  1.0  2.0  3.0  4.0  5.0
+  1.0  2.0  3.0  4.0  5.0
+The determinant of the above matrix is 0.0
+
+n = 1
+matrix: 
+  2.0
+The determinant of the above matrix is 2.0
+
+n = 3
+matrix: 
+  1.0  2.0  3.0
+  1.0  2.0  3.0
+  1.0  2.0  3.0
+The determinant of the above matrix is 0.0
+
+n = 1
+matrix: 
+  4.0
+The determinant of the above matrix is 4.0
+
+n = 1
+matrix: 
+  6.0
+The determinant of the above matrix is 6.0
+
+n = 3
+matrix: 
+  1.0  2.0  3.0
+  1.0  2.0  3.0
+  1.0  2.0  3.0
+The determinant of the above matrix is 0.0
+
+n = 6
+matrix: 
+  2.0  4.0  6.0  8.0 10.0 12.0
+  1.0  3.0  5.0  7.0  9.0 11.0
+  1.0  3.0  5.0  7.0  7.0  3.0
+ -2.0 -5.0 -7.0 -9.0 15.0  2.0
+  5.0  7.0  4.0  2.0  9.0  1.0
+  2.0  3.0 -4.0  5.0  6.0-10.0
+The determinant of the above matrix is -27740.0
+
+n = 4
+matrix: 
+  1.0  2.0  3.0  4.0
+  1.0  2.0  3.0  4.0
+  1.0  2.0  3.0  4.0
+  1.0  2.0  3.0  4.0
+The determinant of the above matrix is 0.0
+
+n = 3
+matrix: 
+1000.0 10.0  2.0
+  3.0  4.0  5.0
+  1.0  2.0  3.0
+The determinant of the above matrix is 1964.0
+
+n = 3
+matrix: 
+  3.0  2.0  1.0
+  4.0  5.0  6.0
+  3.0  4.0  5.0
+The determinant of the above matrix is 0.0
+
+n = 2
+matrix: 
+  1.0  2.0
+  3.0  4.2
+The determinant of the above matrix is -1.7999999999999998
+
+n = 3
+matrix: 
+  1.0  2.0  3.0
+  1.0  2.0  3.0
+  1.0  2.0  3.6
+The determinant of the above matrix is 0.0
+
+n = 4
+matrix: 
+  2.0  3.0  4.0  7.0
+  5.0  5.0  6.0  8.0
+  4.0  5.0  7.0  9.0
+ -3.0  2.0  3.0 10.0
+The determinant of the above matrix is 21.0
+
+n = 3
+matrix: 
+  2.0  3.0  4.5
+  1.0  2.7  5.0
+  6.0  7.0  8.5
+The determinant of the above matrix is -1.000000000000007
+
+n = 4
+matrix: 
+ -5.0 10.0 15.0 50.0
+  2.4 34.0  6.0 32.0
+-78.0 23.0 10.0 -4.0
+  1.0  2.0  3.0100.0
+The determinant of the above matrix is 3081540.0
+

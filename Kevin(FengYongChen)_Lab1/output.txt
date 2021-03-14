@@ -1,0 +1,168 @@
+test case: AAABBB
+the above string is compliant with following language: 1, 2, 4
+
+test case: AB
+the above string is compliant with following language: 1, 2, 4
+
+test case: A
+the above string is not compliant with any of the languages
+
+test case: B
+the above string is not compliant with any of the languages
+
+test case: 
+the above string is compliant with following language: 1
+
+test case: ABABABA
+the above string is not compliant with any of the languages
+
+test case: ABAB
+the above string is compliant with following language: 1, 4
+
+test case: BBAA
+the above string is compliant with following language: 1
+
+test case: BBBAA
+the above string is not compliant with any of the languages
+
+test case: AAB
+the above string is compliant with following language: 4
+
+test case: AABBCCD
+the above string is not compliant with any of the languages
+
+test case: ABCBA
+the above string is not compliant with any of the languages
+
+test case: ABBBA
+the above string is not compliant with any of the languages
+
+test case: ABBA
+the above string is compliant with following language: 1
+
+test case: ABAABBAAABBB
+the above string is compliant with following language: 1
+
+test case: AABACABAA
+the above string is not compliant with any of the languages
+
+test case: AABBBAABBB
+the above string is compliant with following language: 4
+
+test case: AAAAABBB
+the above string is compliant with following language: 4
+
+test case: AABBBB
+the above string is compliant with following language: 3, 4
+
+test case: ABB
+the above string is compliant with following language: 3, 4
+
+test case: ABBABB
+the above string is compliant with following language: 4
+
+test case: ABABABA
+the above string is not compliant with any of the languages
+
+test case: AAABBBBB
+the above string is compliant with following language: 4
+
+test case: BBAAAA
+the above string is not compliant with any of the languages
+
+test case: ABABAB
+the above string is compliant with following language: 1, 4
+
+test case: AABBBABBB
+the above string is not compliant with any of the languages
+
+test case: BBAAA
+the above string is not compliant with any of the languages
+
+test case: ABABCAB
+the above string is not compliant with any of the languages
+
+test case: AAAAAAAA
+the above string is not compliant with any of the languages
+
+test case: BBBBBBBB
+the above string is not compliant with any of the languages
+
+test case: AABBBBABBBB
+the above string is not compliant with any of the languages
+
+test case: AABBBAABBBAABBB
+the above string is compliant with following language: 4
+
+test case: AA
+the above string is not compliant with any of the languages
+
+test case: BBB
+the above string is not compliant with any of the languages
+
+test case: AAA
+the above string is not compliant with any of the languages
+
+test case: ABABAB
+the above string is compliant with following language: 1, 4
+
+test case: AABBBBBB
+the above string is compliant with following language: 4, 5
+
+test case: AABBBBBBAABBBBBB
+the above string is compliant with following language: 4, 5
+
+test case: AAAAAAAA
+the above string is not compliant with any of the languages
+
+test case: BBBBBBBB
+the above string is not compliant with any of the languages
+
+test case: AACBBBBBB
+the above string is not compliant with any of the languages
+
+test case: AA^BBBBBB
+the above string is not compliant with any of the languages
+
+test case: A^B
+the above string is not compliant with any of the languages
+
+test case: A@B
+the above string is not compliant with any of the languages
+
+test case: A*BB
+the above string is not compliant with any of the languages
+
+test case: A B
+the above string is not compliant with any of the languages
+
+test case: ABBBABBBABBBABBBABBBABBBABBBABBB
+the above string is compliant with following language: 4, 5
+
+test case: AABBBBAABBBBAABBBB
+the above string is compliant with following language: 4, 6
+
+test case: AABAABAAB
+the above string is compliant with following language: 4
+
+test case: AABBBBAABBBBAABBBBAABBBB
+the above string is compliant with following language: 4
+
+test case: ABABAB
+the above string is compliant with following language: 1, 4
+
+test case: ABCABCABC
+the above string is not compliant with any of the languages
+
+test case: AABBBAABBBAABBB
+the above string is compliant with following language: 4
+
+test case: ABBABBABB
+the above string is compliant with following language: 4, 6
+
+test case: ABBABBABBABBABB
+the above string is compliant with following language: 4
+
+test case: AABABABAB
+the above string is not compliant with any of the languages
+

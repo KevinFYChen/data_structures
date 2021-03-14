@@ -1,0 +1,3 @@
+n = 3
+error line: 12 13 14
+number of rows exceeds n, n= 3, program terminated

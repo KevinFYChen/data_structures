@@ -1,0 +1,7 @@
+n = 3
+matrix: 
+  1.0  2.0  3.0
+  6.0  8.0 10.0
+ 10.0 12.0 13.0
+The determinant of the above matrix is 4.0
+

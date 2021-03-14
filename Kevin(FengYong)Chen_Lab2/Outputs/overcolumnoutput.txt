@@ -1,0 +1,3 @@
+n = 2
+error line: 1 2 3
+the number of columns indicated above does not match with order n= 2, program terminated
